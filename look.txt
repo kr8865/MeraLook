@@ -1,0 +1,51 @@
+Chest,Waist,Hips,Body Type,BODY SIZE,SKIN TONE,RECOMMENDATIONS
+84,68,82,Hourglass,XL,Fair,Bodycon Dress
+93,74,81,Undefined,XL,Medium,Basic Outfit
+86,65,85,Hourglass,S,Medium,Bodycon Dress
+86,61,80,Undefined,XS,Dark,Basic Outfit
+87,70,85,Hourglass,M,Medium,Bodycon Dress
+96,87,103,Pear,XL,Medium,High-Waisted Palazzo
+95,78,93,Hourglass,M,Medium,Bodycon Dress
+91,60,92,Hourglass,L,Dark,Bodycon Dress
+82,81,81,Rectangle,L,Dark,Peplum Top
+88,78,81,Undefined,S,Medium,Basic Outfit
+84,73,86,Hourglass,L,Medium,Bodycon Dress
+94,85,103,Pear,S,Fair,High-Waisted Palazzo
+93,76,97,Hourglass,XL,Medium,Bodycon Dress
+96,80,92,Hourglass,M,Dark,Bodycon Dress
+92,70,90,Hourglass,XS,Fair,Bodycon Dress
+90,65,92,Hourglass,M,Medium,Bodycon Dress
+95,84,105,Pear,M,Dark,High-Waisted Palazzo
+97,86,101,Pear,XL,Fair,High-Waisted Palazzo
+92,78,91,Hourglass,S,Medium,Bodycon Dress
+85,83,88,Rectangle,M,Dark,Peplum Top
+91,86,89,Apple,XL,Fair,Empire Waist Kurti
+86,70,81,Hourglass,L,Fair,Bodycon Dress
+87,75,94,Pear,L,Fair,High-Waisted Palazzo
+96,66,94,Hourglass,M,Medium,Bodycon Dress
+88,88,88,Rectangle,M,Dark,Peplum Top
+98,89,103,Pear,XL,Medium,High-Waisted Palazzo
+83,62,85,Hourglass,L,Dark,Bodycon Dress
+88,65,90,Hourglass,S,Medium,Bodycon Dress
+100,85,106,Pear,M,Medium,High-Waisted Palazzo
+89,78,88,Hourglass,M,Dark,Bodycon Dress
+86,85,84,Rectangle,M,Fair,Peplum Top
+92,80,92,Rectangle,M,Fair,Peplum Top
+88,83,86,Rectangle,M,Medium,Peplum Top
+90,70,91,Hourglass,M,Fair,Bodycon Dress
+95,75,95,Rectangle,M,Medium,Peplum Top
+96,79,103,Pear,L,Fair,High-Waisted Palazzo
+92,90,91,Apple,S,Dark,Empire Waist Kurti
+90,66,90,Hourglass,L,Fair,Bodycon Dress
+87,70,84,Hourglass,L,Medium,Bodycon Dress
+91,65,93,Hourglass,S,Fair,Bodycon Dress
+96,89,94,Apple,M,Dark,Empire Waist Kurti
+85,72,91,Pear,M,Medium,High-Waisted Palazzo
+94,85,100,Pear,XL,Fair,High-Waisted Palazzo
+91,85,91,Rectangle,L,Dark,Peplum Top
+84,78,84,Rectangle,M,Dark,Peplum Top
+95,70,93,Hourglass,M,Dark,Bodycon Dress
+98,91,106,Pear,M,Medium,High-Waisted Palazzo
+89,80,89,Rectangle,L,Fair,Peplum Top
+88,86,92,Pear,L,Dark,High-Waisted Palazzo
+97,88,90,Apple,L,Medium,Empire Waist Kurti
